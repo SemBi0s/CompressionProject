@@ -1,7 +1,35 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int calcul_ratio(const char input[], const char compressed[]);
+int compress(const char input[]);
+int decompress(const char input[]);
 
+int calcul_ratio(const char input[], const char compressed[]){
+	FILE *base = fopen(input,"rb");
+	FILE *compress = fopen(compressed,"rb");
+	
+	if (base == NULL || compress == NULL){
+		return 0; 	
+	} 
+	char c;
+	float c1 = 0;
+	float c2 = 0;
+
+	while( (c = fgetc(base)) != EOF){
+			c1++;
+		}
+
+	while( (c = fgetc(compress)) != EOF){
+			c2++;
+		}
+
+	printf("compression ratio = %.2f \n", (100 - ((c2/c1))*100));
+
+	fclose(base);
+	fclose(compress);
+	return 1;
+}
 
 int compress(const char input[]){
 	FILE *rle = fopen(input, "r");
@@ -40,6 +68,7 @@ int compress(const char input[]){
 	fclose(rle);
 	fclose(new);
 
+	calcul_ratio( input, "compress.txt");
 	return 1;
 }
 
@@ -51,7 +80,8 @@ int decompress(const char input[]){
 	char a,b;
 	int co;
 	if((rle)!=NULL){
-		while((c = fgetc(rle) )!= EOF && temp != EOF){
+		while(!(temp == EOF)){
+			c = fgetc(rle);
 			if (c == '$'){
 				fscanf(rle ,"%d", &co);
 				for (int i = 0; i < co; ++i){

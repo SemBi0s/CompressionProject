@@ -1,0 +1,659 @@
+1:Déclaration 2:universelle 3:des 4:droits 5:de 6:l'homme 7:Préambule 8:Considérant 9:que 10:la 11:reconnaissance 12:dignité 13:inhérente 14:à 15:tous 16:les 17:membres 18:famille 19:humaine 20:et 21:leurs 22:égaux 23:inaliénables 24:constitue 25:le 26:fondement 27:liberté, 28:justice 29:paix 30:dans 31:monde, 32:méconnaissance 33:mépris 34:ont 35:conduit 36:actes 37:barbarie 38:qui 39:révoltent 40:conscience 41:l'humanité 42:l'avènement 43:d'un 44:monde 45:où 46:êtres 47:humains 48:seront 49:libres 50:parler 51:croire, 52:libérés 53:terreur 54:misère, 55:a 56:été 57:proclamé 58:comme 59:plus 60:haute 61:aspiration 62:l'homme, 63:qu'il 64:est 65:essentiel 66:soient 67:protégés 68:par 69:un 70:régime 71:droit 72:pour 73:ne 74:soit 75:pas 76:contraint, 77:en 78:suprême 79:recours, 80:révolte 81:contre 82:tyrannie 83:l'oppression, 84:d'encourager 85:développement 86:relations 87:amicales 88:entre 89:nations, 90:Charte 91:peuples 92:Nations 93:Unies 94:nouveau 95:leur 96:foi 97:fondamentaux 98:valeur 99:personne 100:humaine, 101:l'égalité 102:hommes 103:femmes, 104:qu'ils 105:se 106:sont 107:déclarés 108:résolus 109:favoriser 110:progrès 111:social 112:instaurer 113:meilleures 114:conditions 115:vie 116:une 117:liberté 118:grande, 119:Etats 120:Membres 121:engagés 122:assurer, 123:coopération 124:avec 125:l'Organisation 126:Unies, 127:respect 128:universel 129:effectif 130:libertés 131:fondamentales, 132:qu'une 133:conception 134:commune 135:ces 136:importance 137:remplir 138:pleinement 139:cet 140:engagement, 141:L'Assemblée 142:générale 143:Proclame 144:présente 145:l'idéal 146:commun 147:atteindre 148:toutes 149:nations 150:afin 151:individus 152:organes 153:société, 154:ayant 155:cette 156:constamment 157:l'esprit, 158:s'efforcent, 159:l'enseignement 160:l'éducation, 161:développer 162:d'en 163:mesures 164:progressives 165:d'ordre 166:national 167:international, 168:l'application 169:universelles 170:effectives, 171:tant 172:parmi 173:populations 174:eux-mêmes 175:celles 176:territoires 177:placés 178:sous 179:juridiction. 180:Article 181:premier 182:Tous 183:naissent 184:droits. 185:Ils 186:doués 187:raison 188:doivent 189:agir 190:uns 191:envers 192:autres 193:esprit 194:fraternité. 195:2 196:Chacun 197:peut 198:prévaloir 199:proclamés 200:Déclaration, 201:sans 202:distinction 203:aucune, 204:notamment 205:race, 206:couleur, 207:sexe, 208:langue, 209:religion, 210:d'opinion 211:politique 212:ou 213:toute 214:autre 215:opinion, 216:d'origine 217:nationale 218:sociale, 219:fortune, 220:naissance 221:situation. 222:De 223:plus, 224:il 225:sera 226:fait 227:aucune 228:fondée 229:sur 230:statut 231:politique, 232:juridique 233:international 234:du 235:pays 236:territoire 237:dont 238:ressortissante, 239:ce 240:indépendant, 241:tutelle, 242:non 243:autonome 244:soumis 245:limitation 246:quelconque 247:souveraineté. 248:3 249:Tout 250:individu 251:vie, 252:sûreté 253:sa 254:personne. 255:4 256:Nul 257:tenu 258:esclavage 259:ni 260:servitude; 261:l'esclavage 262:traite 263:esclaves 264:interdits 265:formes. 266:5 267:torture, 268:peines 269:traitements 270:cruels, 271:inhumains 272:dégradants. 273:6 274:lieux 275:personnalité 276:juridique. 277:7 278:devant 279:loi 280:égale 281:protection 282:loi. 283:discrimination 284:violerait 285:provocation 286:telle 287:discrimination. 288:8 289:Toute 290:recours 291:juridictions 292:nationales 293:compétentes 294:violant 295:lui 296:reconnus 297:constitution 298:9 299:être 300:arbitrairement 301:arrêté, 302:détenu 303:exilé. 304:10 305:droit, 306:pleine 307:égalité, 308:cause 309:entendue 310:équitablement 311:publiquement 312:tribunal 313:indépendant 314:impartial, 315:décidera, 316:ses 317:obligations, 318:bien-fondé 319:accusation 320:matière 321:pénale 322:dirigée 323:elle. 324:11 325:1. 326:accusée 327:acte 328:délictueux 329:présumée 330:innocente 331:jusqu'à 332:culpabilité 333:ait 334:légalement 335:établie 336:au 337:cours 338:procès 339:public 340:garanties 341:nécessaires 342:défense 343:auront 344:assurées. 345:2. 346:condamné 347:actions 348:omissions 349:qui, 350:moment 351:elles 352:commises, 353:constituaient 354:d'après 355:international. 356:même, 357:infligé 358:peine 359:forte 360:celle 361:était 362:applicable 363:l'acte 364:commis. 365:12 366:l'objet 367:d'immixtions 368:arbitraires 369:privée, 370:famille, 371:son 372:domicile 373:correspondance, 374:d'atteintes 375:honneur 376:réputation. 377:telles 378:immixtions 379:atteintes. 380:13 381:circuler 382:librement 383:choisir 384:résidence 385:l'intérieur 386:Etat. 387:quitter 388:tout 389:pays, 390:y 391:compris 392:sien, 393:revenir 394:pays. 395:14 396:Devant 397:persécution, 398:chercher 399:asile 400:bénéficier 401:l'asile 402:d'autres 403:Ce 404:invoqué 405:cas 406:poursuites 407:réellement 408:fondées 409:crime 410:agissements 411:contraires 412:aux 413:buts 414:principes 415:Unies. 416:15 417:nationalité. 418:privé 419:nationalité, 420:changer 421:16 422:A 423:partir 424:l'âge 425:nubile, 426:femme, 427:restriction 428:quant 429:nationalité 430:marier 431:fonder 432:famille. 433:regard 434:mariage, 435:durant 436:mariage 437:lors 438:dissolution. 439:Le 440:conclu 441:qu'avec 442:libre 443:plein 444:consentement 445:futurs 446:époux. 447:3. 448:La 449:l'élément 450:naturel 451:fondamental 452:société 453:l'Etat. 454:17 455:personne, 456:aussi 457:bien 458:seule 459:qu'en 460:collectivité, 461:propriété. 462:propriété 463:18 464:pensée, 465:religion; 466:implique 467:religion 468:conviction 469:ainsi 470:manifester 471:conviction, 472:commun, 473:privé, 474:l'enseignement, 475:pratiques, 476:culte 477:l'accomplissement 478:rites. 479:19 480:d'expression, 481:inquiété 482:opinions 483:celui 484:chercher, 485:recevoir 486:répandre, 487:considérations 488:frontières, 489:informations 490:idées 491:quelque 492:moyen 493:d'expression 494:soit. 495:20 496:réunion 497:d'association 498:pacifiques. 499:obligé 500:faire 501:partie 502:d'une 503:association. 504:21 505:prendre 506:part 507:direction 508:affaires 509:publiques 510:directement, 511:l'intermédiaire 512:représentants 513:choisis. 514:accéder, 515:d'égalité, 516:fonctions 517:volonté 518:peuple 519:l'autorité 520:pouvoirs 521:publics; 522:doit 523:s'exprimer 524:élections 525:honnêtes 526:avoir 527:lieu 528:périodiquement, 529:suffrage 530:égal 531:vote 532:secret 533:suivant 534:procédure 535:équivalente 536:assurant 537:vote. 538:22 539:membre 540:sécurité 541:sociale; 542:elle 543:obtenir 544:satisfaction 545:économiques, 546:sociaux 547:culturels 548:indispensables 549:personnalité, 550:grâce 551:l'effort 552:internationale, 553:compte 554:l'organisation 555:ressources 556:chaque 557:23 558:travail, 559:choix 560:équitables 561:satisfaisantes 562:travail 563:chômage. 564:discrimination, 565:salaire 566:Quiconque 567:travaille 568:rémunération 569:équitable 570:satisfaisante 571:qu'à 572:existence 573:conforme 574:complétée, 575:s'il 576:lieu, 577:moyens 578:sociale. 579:4. 580:syndicats 581:s'affilier 582:intérêts. 583:24 584:repos 585:loisirs 586:raisonnable 587:durée 588:congés 589:payés 590:périodiques. 591:25 592:niveau 593:suffisant 594:assurer 595:santé, 596:bien-être 597:ceux 598:l'alimentation, 599:l'habillement, 600:logement, 601:soins 602:médicaux 603:services 604:nécessaires; 605:chômage, 606:maladie, 607:d'invalidité, 608:veuvage, 609:vieillesse 610:perte 611:subsistance 612:suite 613:circonstances 614:indépendantes 615:volonté. 616:maternité 617:l'enfance 618:aide 619:assistance 620:spéciales. 621:enfants, 622:nés 623:hors 624:jouissent 625:même 626:26 627:l'éducation. 628:L'éducation 629:gratuite, 630:moins 631:concerne 632:élémentaire 633:fondamental. 634:L'enseignement 635:obligatoire. 636:technique 637:professionnel 638:généralisé; 639:l'accès 640:études 641:supérieures 642:ouvert 643:égalité 644:fonction 645:mérite. 646:viser 647:épanouissement 648:renforcement 649:fondamentales. 650:Elle 651:compréhension, 652:tolérance 653:l'amitié 654:groupes 655:raciaux 656:religieux, 657:activités 658:maintien 659:paix. 660:Les 661:parents 662:ont, 663:priorité, 664:genre 665:d'éducation 666:donner 667:enfants. 668:27 669:culturelle 670:communauté, 671:jouir 672:arts 673:participer 674:scientifique 675:bienfaits 676:résultent 677:intérêts 678:moraux 679:matériels 680:découlant 681:production 682:scientifique, 683:littéraire 684:artistique 685:l'auteur. 686:28 687:règne, 688:plan 689:ordre 690:tel 691:énoncés 692:puissent 693:trouver 694:effet. 695:29 696:L'individu 697:devoirs 698:communauté 699:laquelle 700:possible. 701:Dans 702:l'exercice 703:jouissance 704:libertés, 705:chacun 706:n'est 707:qu'aux 708:limitations 709:établies 710:exclusivement 711:vue 712:d'assurer 713:d'autrui 714:satisfaire 715:justes 716:exigences 717:morale, 718:l'ordre 719:général 720:démocratique. 721:Ces 722:pourront, 723:aucun 724:cas, 725:s'exercer 726:contrairement 727:30 728:Aucune 729:disposition 730:interprétée 731:impliquant, 732:Etat, 733:groupement 734:individu, 735:livrer 736:activité 737:d'accomplir 738:visant 739:destruction 740:énoncés. 741:Universal 742:Declaration 743:of 744:Human 745:Rights 746:Preamble 747:Whereas 748:recognition 749:the 750:inherent 751:dignity 752:and 753:equal 754:inalienable 755:rights 756:all 757:members 758:human 759:family 760:is 761:foundation 762:freedom, 763:peace 764:in 765:world, 766:disregard 767:contempt 768:for 769:have 770:resulted 771:barbarous 772:acts 773:which 774:outraged 775:mankind, 776:advent 777:world 778:beings 779:shall 780:enjoy 781:freedom 782:speech 783:belief 784:from 785:fear 786:want 787:has 788:been 789:proclaimed 790:as 791:highest 792:common 793:people, 794:it 795:essential, 796:if 797:man 798:not 799:to 800:be 801:compelled 802:recourse, 803:last 804:resort, 805:rebellion 806:against 807:tyranny 808:oppression, 809:that 810:should 811:protected 812:by 813:rule 814:law, 815:essential 816:promote 817:development 818:friendly 819:between 820:peoples 821:United 822:Charter 823:reaffirmed 824:their 825:faith 826:fundamental 827:rights, 828:worth 829:person 830:men 831:women 832:determined 833:progress 834:better 835:standards 836:life 837:larger 838:Member 839:States 840:pledged 841:themselves 842:achieve, 843:cooperation 844:with 845:Nations, 846:promotion 847:universal 848:observance 849:freedoms, 850:understanding 851:these 852:freedoms 853:greatest 854:full 855:realization 856:this 857:pledge, 858:Now, 859:therefore, 860:The 861:General 862:Assembly, 863:Proclaims 864:standard 865:achievement 866:end 867:every 868:individual 869:organ 870:society, 871:keeping 872:constantly 873:mind, 874:strive 875:teaching 876:education 877:progressive 878:measures, 879:secure 880:effective 881:observance, 882:both 883:among 884:territories 885:under 886:jurisdiction. 887:1 888:All 889:are 890:born 891:free 892:rights. 893:They 894:endowed 895:reason 896:act 897:towards 898:one 899:another 900:spirit 901:brotherhood. 902:Everyone 903:entitled 904:set 905:forth 906:Declaration, 907:without 908:any 909:kind, 910:such 911:colour, 912:sex, 913:language, 914:political 915:or 916:other 917:origin, 918:property, 919:birth 920:status. 921:Furthermore, 922:no 923:made 924:on 925:basis 926:political, 927:jurisdictional 928:status 929:country 930:territory 931:belongs, 932:whether 933:independent, 934:trust, 935:non-self-governing 936:sovereignty. 937:right 938:life, 939:liberty 940:security 941:person. 942:No 943:held 944:slavery 945:slave 946:trade 947:prohibited 948:forms. 949:subjected 950:torture 951:cruel, 952:inhuman 953:degrading 954:treatment 955:punishment. 956:everywhere 957:before 958:law. 959:law 960:violation 961:incitement 962:an 963:remedy 964:competent 965:tribunals 966:violating 967:granted 968:him 969:arbitrary 970:arrest, 971:detention 972:exile. 973:equality 974:fair 975:hearing 976:independent 977:impartial 978:tribunal, 979:determination 980:his 981:obligations 982:criminal 983:charge 984:him. 985:charged 986:penal 987:offence 988:presumed 989:innocent 990:until 991:proved 992:guilty 993:according 994:trial 995:at 996:he 997:had 998:guarantees 999:necessary 1000:defence. 1001:account 1002:omission 1003:did 1004:constitute 1005:offence, 1006:time 1007:when 1008:was 1009:committed. 1010:Nor 1011:heavier 1012:penalty 1013:imposed 1014:than 1015:interference 1016:privacy, 1017:family, 1018:home 1019:correspondence, 1020:nor 1021:attacks 1022:upon 1023:honour 1024:reputation. 1025:attacks. 1026:movement 1027:residence 1028:within 1029:borders 1030:each 1031:State. 1032:leave 1033:country, 1034:including 1035:own, 1036:return 1037:country. 1038:seek 1039:countries 1040:asylum 1041:persecution. 1042:This 1043:may 1044:invoked 1045:case 1046:prosecutions 1047:genuinely 1048:arising 1049:non-political 1050:crimes 1051:contrary 1052:purposes 1053:principles 1054:Nations. 1055:nationality. 1056:arbitrarily 1057:deprived 1058:nationality 1059:denied 1060:change 1061:Men 1062:age, 1063:due 1064:marry 1065:found 1066:family. 1067:marriage, 1068:during 1069:marriage 1070:its 1071:Marriage 1072:entered 1073:into 1074:only 1075:consent 1076:intending 1077:spouses. 1078:natural 1079:group 1080:unit 1081:society 1082:own 1083:property 1084:alone 1085:well 1086:association 1087:others. 1088:property. 1089:thought, 1090:includes 1091:belief, 1092:either 1093:community 1094:others 1095:private, 1096:manifest 1097:teaching, 1098:practice, 1099:worship 1100:observance. 1101:opinion 1102:expression; 1103:hold 1104:seek, 1105:receive 1106:impart 1107:information 1108:ideas 1109:through 1110:media 1111:regardless 1112:frontiers. 1113:peaceful 1114:assembly 1115:belong 1116:take 1117:government 1118:directly 1119:freely 1120:chosen 1121:representatives. 1122:access 1123:service 1124:will 1125:people 1126:authority 1127:government; 1128:expressed 1129:periodic 1130:genuine 1131:elections 1132:equivalent 1133:voting 1134:procedures. 1135:Everyone, 1136:member 1137:realization, 1138:effort 1139:co-operation 1140:accordance 1141:organization 1142:resources 1143:State, 1144:economic, 1145:cultural 1146:indispensable 1147:personality. 1148:work, 1149:choice 1150:employment, 1151:just 1152:favourable 1153:work 1154:unemployment. 1155:pay 1156:work. 1157:who 1158:works 1159:remuneration 1160:ensuring 1161:himself 1162:worthy 1163:dignity, 1164:supplemented, 1165:necessary, 1166:means 1167:protection. 1168:form 1169:join 1170:unions 1171:interests. 1172:rest 1173:leisure, 1174:reasonable 1175:working 1176:hours 1177:holidays 1178:pay. 1179:living 1180:adequate 1181:health 1182:well-being 1183:food, 1184:clothing, 1185:housing 1186:medical 1187:care 1188:services, 1189:event 1190:unemployment, 1191:sickness, 1192:disability, 1193:widowhood, 1194:old 1195:age 1196:lack 1197:livelihood 1198:circumstances 1199:beyond 1200:control. 1201:Motherhood 1202:childhood 1203:special 1204:assistance. 1205:children, 1206:out 1207:wedlock, 1208:same 1209:education. 1210:Education 1211:free, 1212:least 1213:elementary 1214:stages. 1215:Elementary 1216:compulsory. 1217:Technical 1218:professional 1219:generally 1220:available 1221:higher 1222:equally 1223:accessible 1224:merit. 1225:directed 1226:personality 1227:strengthening 1228:freedoms. 1229:It 1230:understanding, 1231:tolerance 1232:friendship 1233:racial 1234:religious 1235:groups, 1236:further 1237:activities 1238:maintenance 1239:peace. 1240:Parents 1241:prior 1242:choose 1243:kind 1244:given 1245:children. 1246:participate 1247:community, 1248:share 1249:scientific 1250:advancement 1251:benefits. 1252:moral 1253:material 1254:interests 1255:resulting 1256:scientific, 1257:literary 1258:artistic 1259:author. 1260:order 1261:can 1262:fully 1263:realized. 1264:duties 1265:In 1266:exercise 1267:everyone 1268:subject 1269:solely 1270:purpose 1271:securing 1272:meeting 1273:requirements 1274:morality, 1275:general 1276:welfare 1277:democratic 1278:society. 1279:These 1280:exercised 1281:Nothing 1282:interpreted 1283:implying 1284:engage 1285:activity 1286:perform 1287:aimed 1288:herein. 1289:Dichiarazione 1290:universale 1291:dei 1292:diritti 1293:umani 1294:Preambolo 1295:Considerato 1296:che 1297:riconoscimento 1298:della 1299:dignità 1300:inerente 1301:tutti 1302:i 1303:membri 1304:famiglia 1305:umana 1306:e 1307:loro 1308:diritti, 1309:uguali 1310:ed 1311:inalienabili, 1312:costituisce 1313:fondamento 1314:libertà, 1315:giustizia 1316:pace 1317:nel 1318:mondo; 1319:disconoscimento 1320:disprezzo 1321:hanno 1322:portato 1323:ad 1324:atti 1325:di 1326:offendono 1327:coscienza 1328:dell'umanità, 1329:l'avvento 1330:mondo 1331:cui 1332:gli 1333:esseri 1334:godano 1335:libertà 1336:parola 1337:credo 1338:dal 1339:timore 1340:bisogno 1341:è 1342:stato 1343:proclamato 1344:come 1345:più 1346:alta 1347:aspirazione 1348:dell'uomo; 1349:indispensabile 1350:siano 1351:protetti 1352:da 1353:norme 1354:giuridiche, 1355:si 1356:vuole 1357:evitare 1358:l'uomo 1359:sia 1360:costretto 1361:ricorrere, 1362:ultima 1363:istanza, 1364:alla 1365:ribellione 1366:contro 1367:tirannia 1368:l'oppressione; 1369:promuovere 1370:lo 1371:sviluppo 1372:rapporti 1373:amichevoli 1374:tra 1375:Nazioni; 1376:popoli 1377:delle 1378:Nazioni 1379:Unite 1380:riaffermato 1381:nello 1382:Statuto 1383:fede 1384:nei 1385:fondamentali, 1386:nella 1387:valore 1388:persona 1389:umana, 1390:nell'uguaglianza 1391:dell'uomo 1392:donna, 1393:deciso 1394:progresso 1395:sociale 1396:miglior 1397:tenore 1398:vita 1399:una 1400:maggiore 1401:libertà; 1402:Stati 1403:sono 1404:impegnati 1405:perseguire, 1406:cooperazione 1407:con 1408:Unite, 1409:rispetto 1410:l'osservanza 1411:fondamentali; 1412:concezione 1413:comune 1414:questi 1415:questa 1416:massima 1417:importanza 1418:per 1419:piena 1420:realizzazione 1421:impegni; 1422:L'ASSEMBLEA 1423:GENERALE 1424:proclama 1425:presente 1426:dichiarazione 1427:ideale 1428:raggiungersi 1429:tutte 1430:Nazioni, 1431:al 1432:fine 1433:ogni 1434:individuo 1435:organo 1436:società, 1437:avendo 1438:costantemente 1439:Dichiarazione, 1440:sforzi 1441:promuovere, 1442:l'insegnamento 1443:l'educazione, 1444:queste 1445:garantirne, 1446:mediante 1447:misure 1448:carattere 1449:nazionale 1450:internazionale, 1451:l'universale 1452:effettivo 1453:tanto 1454:fra 1455:degli 1456:stessi 1457:membri, 1458:quanto 1459:quelli 1460:territori 1461:sottoposti 1462:giurisdizione. 1463:Articolo 1464:Tutti 1465:nascono 1466:liberi 1467:eguali 1468:diritti. 1469:Essi 1470:dotati 1471:ragione 1472:devono 1473:agire 1474:uni 1475:verso 1476:altri 1477:spirito 1478:fratellanza. 1479:Ad 1480:spettano 1481:enunciate 1482:senza 1483:distinzione 1484:alcuna, 1485:ragioni 1486:razza, 1487:colore, 1488:sesso, 1489:lingua, 1490:religione, 1491:opinione 1492:politica 1493:o 1494:altro 1495:genere, 1496:origine 1497:ricchezza, 1498:nascita 1499:altra 1500:condizione. 1501:Nessuna 1502:sarà 1503:inoltre 1504:stabilita 1505:sulla 1506:base 1507:dello 1508:statuto 1509:politico, 1510:giuridico 1511:internazionale 1512:del 1513:paese 1514:territorio 1515:appartiene, 1516:indipendente, 1517:sottoposto 1518:amministrazione 1519:fiduciaria 1520:autonomo, 1521:soggetto 1522:qualsiasi 1523:limitazione 1524:sovranità. 1525:Ogni 1526:ha 1527:diritto 1528:vita, 1529:sicurezza 1530:propria 1531:persona. 1532:Nessun 1533:potrà 1534:essere 1535:tenuto 1536:schiavitù 1537:servitù; 1538:tratta 1539:schiavi 1540:saranno 1541:proibite 1542:sotto 1543:forma. 1544:tortura 1545:trattamento 1546:punizione 1547:crudeli, 1548:inumani 1549:degradanti. 1550:diritto, 1551:luogo, 1552:sua 1553:personalità 1554:giuridica. 1555:dinanzi 1556:legge 1557:alcuna 1558:discriminazione, 1559:eguale 1560:tutela 1561:parte 1562:legge. 1563:discriminazione 1564:violi 1565:incitamento 1566:tale 1567:discriminazione. 1568:un'effettiva 1569:possibilità 1570:ricorso 1571:competenti 1572:tribunali 1573:violino 1574:fondamentali 1575:riconosciuti 1576:dalla 1577:costituzione 1578:arbitrariamente 1579:arrestato, 1580:detenuto 1581:esiliato. 1582:posizione 1583:uguaglianza, 1584:equa 1585:pubblica 1586:udienza 1587:davanti 1588:tribunale 1589:indipendente 1590:imparziale, 1591:determinazione 1592:suoi 1593:doveri, 1594:nonché 1595:fondatezza 1596:accusa 1597:penale 1598:venga 1599:rivolta. 1600:accusato 1601:reato 1602:presunto 1603:sino 1604:colpevolezza 1605:stata 1606:provata 1607:legalmente 1608:pubblico 1609:processo 1610:quale 1611:egli 1612:abbia 1613:avuto 1614:garanzie 1615:necessarie 1616:difesa. 1617:condannato 1618:comportamento 1619:commissivo 1620:od 1621:omissivo 1622:che, 1623:momento 1624:perpetuato, 1625:costituisse 1626:secondo 1627:interno 1628:internazionale. 1629:Non 1630:pari 1631:inflitta 1632:pena 1633:superiore 1634:quella 1635:applicabile 1636:commesso. 1637:interferenze 1638:arbitrarie 1639:privata, 1640:famiglia, 1641:casa, 1642:corrispondenza, 1643:né 1644:lesione 1645:suo 1646:onore 1647:reputazione. 1648:tutelato 1649:tali 1650:lesioni. 1651:movimento 1652:residenza 1653:entro 1654:confini 1655:Stato. 1656:lasciare 1657:paese, 1658:incluso 1659:proprio, 1660:ritornare 1661:proprio 1662:paese. 1663:cercare 1664:godere 1665:paesi 1666:asilo 1667:dalle 1668:persecuzioni. 1669:Questo 1670:invocato 1671:qualora 1672:l'individuo 1673:realmente 1674:ricercato 1675:reati 1676:politici 1677:azioni 1678:contrarie 1679:ai 1680:fini 1681:principi 1682:Unite. 1683:cittadinanza. 1684:privato 1685:cittadinanza, 1686:mutare 1687:Uomini 1688:donne 1689:età 1690:adatta 1691:sposarsi 1692:fondare 1693:cittadinanza 1694:religione. 1695:riguardo 1696:matrimonio, 1697:durante 1698:matrimonio 1699:all'atto 1700:scioglimento. 1701:Il 1702:concluso 1703:soltanto 1704:libero 1705:pieno 1706:consenso 1707:futuri 1708:coniugi. 1709:nucleo 1710:naturale 1711:fondamentale 1712:società 1713:protetta 1714:dallo 1715:avere 1716:proprietà 1717:personale 1718:altri. 1719:proprietà. 1720:pensiero, 1721:religione; 1722:include 1723:cambiare 1724:religione 1725:credo, 1726:manifestare, 1727:isolatamente 1728:comune, 1729:privato, 1730:nell'insegnamento, 1731:nelle 1732:pratiche, 1733:culto 1734:nell'osservanza 1735:riti. 1736:espressione 1737:molestato 1738:quello 1739:cercare, 1740:ricevere 1741:diffondere 1742:informazioni 1743:idee 1744:attraverso 1745:mezzo 1746:frontiere. 1747:riunione 1748:associazione 1749:pacifica. 1750:Nessuno 1751:può 1752:far 1753:un'associazione. 1754:partecipare 1755:governo 1756:direttamente, 1757:rappresentanti 1758:liberamente 1759:scelti. 1760:accedere 1761:condizioni 1762:eguaglianza 1763:pubblici 1764:impieghi 1765:volontà 1766:popolare 1767:dell'autorità 1768:governo; 1769:deve 1770:espressa 1771:periodiche 1772:veritiere 1773:elezioni, 1774:effettuate 1775:suffragio 1776:eguale, 1777:voto 1778:segreto, 1779:procedura 1780:equivalente 1781:libera 1782:votazione. 1783:individuo, 1784:membro 1785:sforzo 1786:rapporto 1787:l'organizzazione 1788:risorse 1789:Stato, 1790:economici, 1791:sociali 1792:culturali 1793:indispensabili 1794:personalità. 1795:lavoro, 1796:scelta 1797:dell'impiego, 1798:giuste 1799:soddisfacenti 1800:lavoro 1801:protezione 1802:disoccupazione. 1803:retribuzione 1804:lavoro. 1805:lavora 1806:rimunerazione 1807:soddisfacente 1808:assicuri 1809:stesso 1810:esistenza 1811:integrata, 1812:necessario, 1813:mezzi 1814:sindacati 1815:aderirvi 1816:difesa 1817:propri 1818:interessi. 1819:riposo 1820:allo 1821:svago, 1822:comprendendo 1823:ciò 1824:ragionevole 1825:ore 1826:ferie 1827:retribuite. 1828:sufficiente 1829:garantire 1830:salute 1831:benessere 1832:particolare 1833:all'alimentazione, 1834:vestiario, 1835:all'abitazione, 1836:alle 1837:cure 1838:mediche 1839:servizi 1840:necessari; 1841:caso 1842:disoccupazione, 1843:malattia, 1844:invalidità, 1845:vedovanza, 1846:vecchiaia 1847:perdita 1848:sussistenza 1849:circostanze 1850:indipendenti 1851:volontà. 1852:maternità 1853:l'infanzia 1854:speciali 1855:assistenza. 1856:bambini, 1857:nati 1858:fuori 1859:esso, 1860:stessa 1861:all'istruzione. 1862:L'istruzione 1863:gratuita 1864:almeno 1865:riguarda 1866:classi 1867:elementari 1868:fondamentali. 1869:elementare 1870:obbligatoria. 1871:tecnica 1872:professionale 1873:messa 1874:portata 1875:l'istruzione 1876:egualmente 1877:accessibile 1878:merito. 1879:indirizzata 1880:rafforzamento 1881:Essa 1882:comprensione, 1883:tolleranza, 1884:l'amicizia 1885:gruppi 1886:razziali 1887:religiosi, 1888:favorire 1889:l'opera 1890:mantenimento 1891:pace. 1892:I 1893:genitori 1894:priorità 1895:genere 1896:istruzione 1897:impartire 1898:figli. 1899:prendere 1900:culturale 1901:comunità, 1902:arti 1903:scientifico 1904:benefici. 1905:interessi 1906:morali 1907:materiali 1908:derivanti 1909:produzione 1910:scientifica, 1911:letteraria 1912:artistica 1913:autore. 1914:ordine 1915:enunciati 1916:possano 1917:pienamente 1918:realizzati. 1919:doveri 1920:possibile 1921:Nell'esercizio 1922:sue 1923:ognuno 1924:quelle 1925:limitazioni 1926:stabilite 1927:assicurare 1928:soddisfare 1929:esigenze 1930:dell'ordine 1931:generale 1932:democratica. 1933:Questi 1934:possono 1935:nessun 1936:esercitati 1937:contrasto 1938:Nulla 1939:interpretato 1940:senso 1941:implicare 1942:gruppo 1943:esercitare 1944:un'attività 1945:compiere 1946:atto 1947:mirante 1948:distruzione 1949:alcuno 1950:essa 1951:enunciati. 1952:Declaración 1953:Derechos 1954:Humanos 1955:Preámbulo 1956:Considerando 1957:libertad, 1958:justicia 1959:paz 1960:el 1961:mundo 1962:tienen 1963:por 1964:reconocimiento 1965:dignidad 1966:intrínseca 1967:los 1968:derechos 1969:iguales 1970:inalienables 1971:todos 1972:miembros 1973:familia 1974:humana, 1975:desconocimiento 1976:menosprecio 1977:humanos 1978:han 1979:originado 1980:actos 1981:ultrajantes 1982:para 1983:conciencia 1984:humanidad; 1985:proclamado, 1986:como 1987:aspiración 1988:más 1989:elevada 1990:hombre, 1991:advenimiento 1992:seres 1993:humanos, 1994:liberados 1995:temor 1996:miseria, 1997:disfruten 1998:libertad 1999:palabra 2000:creencias, 2001:esencial 2002:sean 2003:protegidos 2004:régimen 2005:Derecho, 2006:fin 2007:hombre 2008:vea 2009:compelido 2010:supremo 2011:recurso 2012:rebelión 2013:contra 2014:tiranía 2015:opresión, 2016:también 2017:promover 2018:desarrollo 2019:relaciones 2020:amistosas 2021:las 2022:naciones, 2023:pueblos 2024:Naciones 2025:Unidas 2026:reafirmado 2027:Carta 2028:su 2029:fe 2030:fundamentales 2031:valor 2032:humana 2033:igualdad 2034:hombres 2035:mujeres; 2036:declarado 2037:resueltos 2038:progreso 2039:elevar 2040:nivel 2041:vida 2042:dentro 2043:concepto 2044:amplio 2045:Estados 2046:Miembros 2047:comprometido 2048:asegurar, 2049:cooperación 2050:Organización 2051:Unidas, 2052:respeto 2053:efectivo 2054:libertades 2055:concepción 2056:común 2057:estos 2058:es 2059:mayor 2060:importancia 2061:pleno 2062:cumplimiento 2063:dicho 2064:compromiso, 2065:Asamblea 2066:Proclama 2067:ideal 2068:naciones 2069:deben 2070:esforzarse, 2071:individuos 2072:instituciones, 2073:inspirándose 2074:constantemente 2075:ella, 2076:promuevan, 2077:enseñanza 2078:educación, 2079:libertades, 2080:aseguren, 2081:medidas 2082:progresivas 2083:carácter 2084:nacional 2085:internacional, 2086:aplicación 2087:universales 2088:efectivos, 2089:territorios 2090:colocados 2091:bajo 2092:jurisdicción. 2093:Artículo 2094:Todos 2095:nacen 2096:y, 2097:dotados 2098:están 2099:razón 2100:conciencia, 2101:comportarse 2102:fraternalmente 2103:unos 2104:otros. 2105:Toda 2106:tiene 2107:proclamados 2108:esta 2109:Declaración, 2110:sin 2111:distinción 2112:alguna 2113:raza, 2114:color, 2115:sexo, 2116:idioma, 2117:religión, 2118:opinión 2119:política 2120:cualquier 2121:otra 2122:índole, 2123:origen 2124:social, 2125:posición 2126:económica, 2127:nacimiento 2128:condición. 2129:Además, 2130:hará 2131:fundada 2132:condición 2133:política, 2134:jurídica 2135:internacional 2136:país 2137:cuya 2138:jurisdicción 2139:dependa 2140:persona, 2141:trata 2142:independiente, 2143:administración 2144:fiduciaria, 2145:autónomo 2146:sometido 2147:limitación 2148:soberanía. 2149:Todo 2150:derecho 2151:vida, 2152:seguridad 2153:Nadie 2154:estará 2155:esclavitud 2156:servidumbre; 2157:esclavos 2158:prohibidas 2159:todas 2160:sus 2161:formas. 2162:será 2163:torturas 2164:penas 2165:tratos 2166:crueles, 2167:inhumanos 2168:degradantes. 2169:ser 2170:humano 2171:derecho, 2172:partes, 2173:personalidad 2174:jurídica. 2175:ante 2176:ley 2177:tienen, 2178:distinción, 2179:igual 2180:protección 2181:ley. 2182:toda 2183:discriminación 2184:infrinja 2185:provocación 2186:tal 2187:discriminación. 2188:efectivo, 2189:tribunales 2190:nacionales 2191:competentes, 2192:ampare 2193:violen 2194:reconocidos 2195:constitución 2196:podrá 2197:detenido, 2198:preso 2199:desterrado. 2200:condiciones 2201:plena 2202:igualdad, 2203:oída 2204:públicamente 2205:independiente 2206:imparcial, 2207:determinación 2208:obligaciones 2209:examen 2210:acusación 2211:ella 2212:materia 2213:penal. 2214:acusada 2215:delito 2216:presuma 2217:inocencia 2218:mientras 2219:pruebe 2220:culpabilidad, 2221:juicio 2222:público 2223:hayan 2224:asegurado 2225:garantías 2226:necesarias 2227:defensa. 2228:condenado 2229:u 2230:omisiones 2231:cometerse 2232:fueron 2233:delictivos 2234:según 2235:Derecho 2236:internacional. 2237:Tampoco 2238:impondrá 2239:grave 2240:aplicable 2241:comisión 2242:delito. 2243:objeto 2244:injerencias 2245:arbitrarias 2246:privada, 2247:familia, 2248:domicilio 2249:correspondencia, 2250:ataques 2251:honra 2252:reputación. 2253:tales 2254:ataques. 2255:circular 2256:libremente 2257:elegir 2258:residencia 2259:Estado. 2260:salir 2261:país, 2262:propio, 2263:regresar 2264:país. 2265:En 2266:persecución, 2267:buscar 2268:asilo, 2269:disfrutar 2270:él, 2271:Este 2272:invocado 2273:acción 2274:judicial 2275:originada 2276:delitos 2277:comunes 2278:opuestos 2279:propósitos 2280:principios 2281:Unidas. 2282:nacionalidad. 2283:nadie 2284:privará 2285:nacionalidad 2286:cambiar 2287:Los 2288:mujeres, 2289:edad 2290:núbil, 2291:restricción 2292:motivos 2293:casarse 2294:fundar 2295:familia; 2296:disfrutarán 2297:cuanto 2298:disolución 2299:matrimonio. 2300:Sólo 2301:consentimiento 2302:futuros 2303:esposos 2304:contraerse 2305:elemento 2306:sociedad 2307:propiedad, 2308:colectivamente. 2309:privado 2310:propiedad. 2311:pensamiento, 2312:religión; 2313:este 2314:incluye 2315:religión 2316:creencia, 2317:así 2318:manifestar 2319:colectivamente, 2320:privado, 2321:enseñanza, 2322:práctica, 2323:observancia. 2324:expresión; 2325:molestado 2326:causa 2327:opiniones, 2328:investigar 2329:recibir 2330:informaciones 2331:difundirlas, 2332:fronteras, 2333:medio 2334:expresión. 2335:reunión 2336:asociación 2337:pacíficas. 2338:obligado 2339:pertenecer 2340:asociación. 2341:participar 2342:gobierno 2343:directamente 2344:representantes 2345:escogidos. 2346:acceso, 2347:funciones 2348:públicas 2349:voluntad 2350:pueblo 2351:autoridad 2352:poder 2353:público; 2354:expresará 2355:elecciones 2356:auténticas 2357:habrán 2358:celebrarse 2359:periódicamente, 2360:sufragio 2361:secreto 2362:otro 2363:procedimiento 2364:garantice 2365:voto. 2366:miembro 2367:sociedad, 2368:obtener, 2369:esfuerzo 2370:habida 2371:cuenta 2372:organización 2373:recursos 2374:cada 2375:Estado, 2376:satisfacción 2377:económicos, 2378:sociales 2379:culturales, 2380:personalidad. 2381:trabajo, 2382:elección 2383:equitativas 2384:satisfactorias 2385:trabajo 2386:desempleo. 2387:alguna, 2388:salario 2389:igual. 2390:trabaja 2391:remuneración 2392:equitativa 2393:satisfactoria, 2394:asegure, 2395:existencia 2396:completada, 2397:necesario, 2398:cualesquiera 2399:otros 2400:medios 2401:social. 2402:sindicatos 2403:sindicarse 2404:defensa 2405:intereses. 2406:descanso, 2407:disfrute 2408:tiempo 2409:libre, 2410:razonable 2411:duración 2412:vacaciones 2413:periódicas 2414:pagadas. 2415:adecuado 2416:salud 2417:bienestar, 2418:especial 2419:alimentación, 2420:vestido, 2421:vivienda, 2422:asistencia 2423:médica 2424:servicios 2425:necesarios; 2426:asimismo 2427:seguros 2428:desempleo, 2429:enfermedad, 2430:invalidez, 2431:viudez, 2432:vejez 2433:casos 2434:pérdida 2435:subsistencia 2436:circunstancias 2437:independientes 2438:voluntad. 2439:maternidad 2440:infancia 2441:cuidados 2442:especiales. 2443:niños, 2444:nacidos 2445:fuera 2446:educación. 2447:educación 2448:debe 2449:gratuita, 2450:menos 2451:concerniente 2452:instrucción 2453:elemental 2454:fundamental. 2455:obligatoria. 2456:técnica 2457:profesional 2458:habrá 2459:generalizada; 2460:acceso 2461:estudios 2462:superiores 2463:todos, 2464:función 2465:méritos 2466:respectivos. 2467:tendrá 2468:fortalecimiento 2469:fundamentales; 2470:favorecerá 2471:comprensión, 2472:tolerancia 2473:amistad 2474:grupos 2475:étnicos 2476:religiosos; 2477:promoverá 2478:actividades 2479:mantenimiento 2480:paz. 2481:padres 2482:tendrán 2483:preferente 2484:escoger 2485:tipo 2486:darse 2487:hijos. 2488:tomar 2489:comunidad, 2490:gozar 2491:artes 2492:científico 2493:beneficios 2494:él 2495:resulten. 2496:intereses 2497:morales 2498:materiales 2499:correspondan 2500:producciones 2501:científicas, 2502:literarias 2503:artísticas 2504:sea 2505:autora. 2506:establezca 2507:orden 2508:hagan 2509:plenamente 2510:efectivos. 2511:deberes 2512:respecto 2513:puesto 2514:sólo 2515:puede 2516:desarrollar 2517:ejercicio 2518:solamente 2519:sujeta 2520:limitaciones 2521:establecidas 2522:único 2523:asegurar 2524:demás, 2525:satisfacer 2526:justas 2527:exigencias 2528:moral, 2529:bienestar 2530:democrática. 2531:Estos 2532:podrán 2533:ningún 2534:ejercidos 2535:oposición 2536:Nada 2537:interpretarse 2538:sentido 2539:confiere 2540:alguno 2541:grupo 2542:emprender 2543:realizar 2544:tendientes 2545:supresión 2546:cualquiera 2547:Declaración. 
+1 2 3 4 5 6
+
+
+
+7
+
+8 9 10 11 5 10 12 13 14 15 16 17 5 10 18 19 20 5 21 4 22 20 23 24 25 26 5 10 27 5 10 28 20 5 10 29 30 25 31
+8 9 10 32 20 25 33 3 4 5 6 34 35 14 3 36 5 37 38 39 10 40 5 41 20 9 42 43 44 45 16 46 47 48 49 5 50 20 5 51 52 5 10 53 20 5 10 54 55 56 57 58 10 59 60 61 5 62
+8 63 64 65 9 16 4 5 6 66 67 68 69 70 5 71 72 9 6 73 74 75 76 77 78 79 14 10 80 81 10 82 20 83
+8 63 64 65 84 25 85 5 86 87 88 89
+8 9 30 10 90 16 91 3 92 93 34 57 14 94 95 96 30 16 4 97 5 62 30 10 12 20 10 98 5 10 99 100 30 101 3 4 3 102 20 3 103 20 104 105 106 107 108 14 109 25 110 111 20 14 112 5 113 114 5 115 30 116 117 59 118
+8 9 16 119 120 105 106 121 14 122 77 123 124 125 3 92 126 25 127 128 20 129 3 4 5 6 20 3 130 131
+8 132 133 134 5 135 4 20 130 64 5 10 59 60 136 72 137 138 139 140
+141 142
+143 10 144 1 2 3 4 5 6 58 145 146 14 147 68 15 16 91 20 148 16 149 150 9 15 16 151 20 15 16 152 5 10 153 154 155 1 156 14 157 158 68 159 20 160 5 161 25 127 5 135 4 20 130 20 162 122 68 3 163 164 165 166 20 167 10 11 20 168 169 20 170 171 172 16 173 3 119 120 174 9 172 175 3 176 177 178 95 179
+
+
+180 181
+182 16 46 47 183 49 20 22 77 12 20 77 184
+185 106 186 5 187 20 5 40 20 188 189 16 190 191 16 192 30 69 193 5 194
+
+
+180 195
+196 197 105 198 5 15 16 4 20 5 148 16 130 199 30 10 144 200 201 202 203 204 5 205 5 206 5 207 5 208 5 209 210 211 212 5 213 214 215 216 217 212 218 5 219 5 220 212 5 213 214 221
+222 223 224 73 225 226 227 202 228 229 25 230 231 232 212 233 234 235 212 234 236 237 116 99 64 238 9 239 235 212 236 74 240 178 241 242 243 212 244 14 116 245 246 5 247
+
+
+180 248
+249 250 55 71 14 10 251 14 10 117 20 14 10 252 5 253 254
+
+
+180 255
+256 73 225 257 77 258 259 77 260 261 20 10 262 3 263 106 264 178 148 21 265
+
+
+180 266
+256 73 225 244 14 10 267 259 14 3 268 212 269 270 271 212 272
+
+
+180 273
+196 55 25 71 14 10 11 77 15 274 5 253 275 276
+
+
+180 277
+182 106 22 278 10 279 20 34 71 201 202 14 116 280 281 5 10 282 182 34 71 14 116 281 280 81 213 283 38 284 10 144 1 20 81 213 285 14 116 286 287
+
+
+180 288
+289 99 55 71 14 69 290 129 278 16 291 292 293 81 16 36 294 16 4 97 38 295 106 296 68 10 297 212 68 10 282
+
+
+180 298
+256 73 197 299 300 301 302 259 303
+
+
+180 304
+289 99 55 305 77 306 307 14 239 9 253 308 74 309 310 20 311 68 69 312 313 20 314 38 315 74 5 316 4 20 317 74 234 318 5 213 319 77 320 321 322 81 323
+
+
+180 324
+325 289 99 326 43 327 328 64 329 330 331 239 9 253 332 333 56 334 335 336 337 43 338 339 45 148 16 340 341 14 253 342 295 343 56 344
+345 256 73 225 346 72 3 347 212 348 349 336 350 45 351 34 56 352 73 353 75 69 327 328 354 25 71 166 212 355 222 356 224 73 225 357 227 358 59 359 9 360 38 361 362 336 350 45 363 328 55 56 364
+
+
+180 365
+256 73 225 366 367 368 30 253 115 369 253 370 371 372 212 253 373 259 374 14 371 375 20 14 253 376 289 99 55 71 14 10 281 5 10 279 81 5 377 378 212 5 377 379
+
+
+180 380
+325 289 99 55 25 71 5 381 382 20 5 383 253 384 14 385 43 386
+345 289 99 55 25 71 5 387 388 389 390 391 25 392 20 5 393 30 371 394
+
+
+180 395
+325 396 10 397 213 99 55 25 71 5 398 399 20 5 400 5 401 77 402 394
+345 403 71 73 197 299 404 30 25 405 5 406 407 408 229 69 409 5 71 146 212 229 3 410 411 412 413 20 412 414 3 92 415
+
+
+180 416
+325 249 250 55 71 14 116 417
+345 256 73 197 299 300 418 5 253 419 259 234 71 5 420 5 417
+
+
+180 421
+325 422 423 5 424 425 6 20 10 426 201 227 427 428 14 10 205 10 429 212 10 209 34 25 71 5 105 430 20 5 431 116 432 185 34 3 4 22 336 433 234 434 435 25 436 20 437 5 253 438
+345 439 436 73 197 299 440 441 25 442 20 443 444 3 445 446
+447 448 18 64 449 450 20 451 5 10 452 20 55 71 14 10 281 5 10 452 20 5 453
+
+
+180 454
+325 289 455 456 457 458 459 460 55 71 14 10 461
+345 256 73 197 299 300 418 5 253 462
+
+
+180 463
+289 99 55 71 14 10 117 5 464 5 40 20 5 465 239 71 466 10 117 5 420 5 467 212 5 468 469 9 10 117 5 470 253 467 212 253 471 458 212 77 472 171 77 339 459 473 68 474 16 475 25 476 20 477 3 478
+
+
+180 479
+249 250 55 71 14 10 117 210 20 480 239 38 466 25 71 5 73 75 299 481 72 316 482 20 483 5 484 5 485 20 5 486 201 487 5 488 16 489 20 16 490 68 491 492 493 9 239 494
+
+
+180 495
+325 289 99 55 71 14 10 117 5 496 20 497 498
+345 256 73 197 299 499 5 500 501 502 503
+
+
+180 504
+325 289 99 55 25 71 5 505 506 14 10 507 3 508 509 5 371 389 74 510 74 68 511 5 512 382 513
+345 289 99 55 71 14 514 30 3 114 515 412 516 509 5 371 394
+447 448 517 234 518 64 25 26 5 519 3 520 521 155 517 522 523 68 3 524 525 38 188 526 527 528 336 529 128 530 20 336 531 532 212 533 116 534 535 536 10 117 234 537
+
+
+180 538
+289 455 77 171 9 539 5 10 153 55 71 14 10 540 541 542 64 228 14 543 10 544 3 4 545 546 20 547 548 14 253 12 20 336 442 85 5 253 549 550 14 551 166 20 14 10 123 552 553 257 5 554 20 3 555 5 556 394
+
+
+180 557
+325 289 99 55 71 336 558 336 442 559 5 371 558 14 3 114 560 20 561 5 562 20 14 10 281 81 25 563
+345 182 34 305 201 227 564 14 69 565 530 72 69 562 530
+447 566 567 55 71 14 116 568 569 20 570 295 536 469 571 253 18 116 572 573 14 10 12 19 20 574 575 390 55 576 68 15 192 577 5 281 578
+579 289 99 55 25 71 5 431 124 402 3 580 20 5 581 14 3 580 72 10 342 5 316 582
+
+
+180 583
+289 99 55 71 336 584 20 412 585 20 204 14 116 245 586 5 10 587 234 562 20 14 3 588 589 590
+
+
+180 591
+325 289 99 55 71 14 69 592 5 115 593 72 594 253 595 371 596 20 597 5 253 370 204 72 598 599 25 600 16 601 602 469 9 72 16 603 546 604 542 55 71 14 10 540 77 405 5 605 5 606 607 5 608 5 609 212 30 16 192 405 5 610 5 316 577 5 611 68 612 5 613 614 5 253 615
+345 448 616 20 617 34 71 14 116 618 20 14 116 619 620 182 16 621 104 66 622 30 25 436 212 623 434 624 5 10 625 281 578
+
+
+180 626
+325 289 99 55 71 14 627 628 522 299 629 336 630 77 239 38 631 159 632 20 633 634 632 64 635 634 636 20 637 522 299 638 639 412 640 641 522 299 642 77 306 643 14 15 77 644 5 95 645
+345 628 522 646 336 443 647 5 10 275 19 20 336 648 234 127 3 4 5 6 20 3 130 649 650 522 109 10 651 10 652 20 653 88 148 16 149 20 15 16 654 655 212 656 469 9 25 85 3 657 3 92 93 72 25 658 5 10 659
+447 660 661 662 68 663 25 71 5 383 25 664 665 14 666 14 21 667
+
+
+
+180 668
+325 289 99 55 25 71 5 505 506 382 14 10 115 669 5 10 670 5 671 3 672 20 5 673 336 110 674 20 412 675 38 77 676
+345 196 55 71 14 10 281 3 677 678 20 679 680 5 213 681 682 683 212 684 237 224 64 685
+
+
+180 686
+289 99 55 71 14 239 9 687 229 25 688 111 20 229 25 688 167 69 689 690 9 16 4 20 130 691 30 10 144 1 692 390 693 443 694
+
+
+180 695
+325 696 55 3 697 191 10 698 30 699 458 25 442 20 443 85 5 253 275 64 700
+345 701 702 5 316 4 20 30 10 703 5 316 704 705 706 244 707 708 709 68 10 279 710 77 711 712 10 11 20 25 127 3 4 20 130 713 20 150 5 714 412 715 716 5 10 717 5 718 339 20 234 596 719 30 116 452 720
+447 721 4 20 130 73 722 77 723 724 725 726 412 413 20 412 414 3 92 415
+
+
+180 727
+728 729 5 10 144 1 73 197 299 730 58 731 72 69 732 69 733 212 69 734 69 71 246 5 105 735 14 116 736 212 737 69 327 738 14 10 739 3 4 20 130 38 390 106 740
+
+
+741 742 743 744 745
+
+
+746
+747 748 743 749 750 751 752 743 749 753 752 754 755 743 756 757 743 749 758 759 760 749 761 743 762 28 752 763 764 749 765
+747 766 752 767 768 758 755 769 770 764 771 772 773 769 774 749 40 743 775 752 749 776 743 55 777 764 773 758 778 779 780 781 743 782 752 783 752 781 784 785 752 786 787 788 789 790 749 791 61 743 749 792 793
+747 794 760 795 796 797 760 798 799 800 801 799 769 802 790 55 803 804 799 805 806 807 752 808 809 758 755 810 800 811 812 749 813 743 814
+747 794 760 815 799 816 749 817 743 818 86 819 89
+747 749 820 743 749 821 92 769 764 749 822 823 824 825 764 826 758 827 764 749 751 752 828 743 749 758 829 752 764 749 753 755 743 830 752 831 752 769 832 799 816 111 833 752 834 835 743 836 764 837 762
+747 838 839 769 840 841 799 842 764 843 844 749 821 845 749 846 743 847 127 768 752 848 743 758 755 752 826 849
+747 55 792 850 743 851 755 752 852 760 743 749 853 136 768 749 854 855 743 856 857
+858 859
+860 861 862
+863 856 741 742 743 744 745 790 55 792 864 743 865 768 756 820 752 756 89 799 749 866 809 867 868 752 867 869 743 870 871 856 742 872 764 873 779 874 812 875 752 876 799 816 127 768 851 755 752 852 752 812 877 878 166 752 167 799 879 824 847 752 880 748 752 881 882 883 749 820 743 838 839 841 752 883 749 820 743 884 885 824 886
+
+
+
+180 887
+888 758 778 889 890 891 752 753 764 751 752 892 893 889 894 844 895 752 40 752 810 896 897 898 899 764 55 900 743 901
+
+
+
+180 195
+902 760 903 799 756 749 755 752 852 904 905 764 856 906 907 202 743 908 909 910 790 205 911 912 913 209 914 915 916 215 166 915 111 917 918 919 915 916 920
+921 922 202 779 800 923 924 749 925 743 749 926 927 915 233 928 743 749 929 915 930 799 773 55 829 931 932 794 800 933 934 935 915 885 908 916 245 743 936
+
+
+
+180 248
+902 787 749 937 799 938 939 752 940 743 941
+
+
+
+180 255
+942 898 779 800 943 764 944 915 260 944 752 749 945 946 779 800 947 764 756 824 948
+
+
+
+180 266
+942 898 779 800 949 799 950 915 799 951 952 915 953 954 915 955
+
+
+
+180 273
+902 787 749 937 799 748 956 790 55 829 957 749 958
+
+
+
+180 277
+888 889 753 957 749 959 752 889 903 907 908 283 799 753 281 743 749 958 888 889 903 799 753 281 806 908 283 764 960 743 856 742 752 806 908 961 799 910 287
+
+
+
+180 288
+902 787 749 937 799 962 880 963 812 749 964 166 965 768 772 966 749 826 755 967 968 812 749 297 915 812 958
+
+
+
+180 298
+942 898 779 800 949 799 969 970 971 915 972
+
+
+
+180 304
+902 760 903 764 854 973 799 55 974 752 339 975 812 962 976 752 977 978 764 749 979 743 980 755 752 981 752 743 908 982 983 806 984
+
+
+
+180 324
+325 902 985 844 55 986 987 787 749 937 799 800 988 989 990 991 992 993 799 959 764 55 339 994 995 773 996 787 997 756 749 998 999 768 980 1000
+345 942 898 779 800 943 992 743 908 986 987 924 1001 743 908 896 915 1002 773 1003 798 1004 55 986 1005 885 166 915 233 814 995 749 1006 1007 794 1008 1009 1010 779 55 1011 1012 800 1013 1014 749 898 809 1008 362 995 749 1006 749 986 987 1008 1009
+
+
+
+180 365
+942 898 779 800 949 799 969 1015 844 980 1016 1017 1018 915 1019 1020 799 1021 1022 980 1023 752 1024 902 787 749 937 799 749 281 743 749 959 806 910 1015 915 1025
+
+
+
+180 380
+325 902 787 749 937 799 781 743 1026 752 1027 1028 749 1029 743 1030 1031
+345 902 787 749 937 799 1032 908 1033 1034 980 1035 752 799 1036 799 980 1037
+
+
+
+180 395
+325 902 787 749 937 799 1038 752 799 780 764 916 1039 1040 784 1041
+345 1042 937 1043 798 800 1044 764 749 1045 743 1046 1047 1048 784 1049 1050 915 784 772 1051 799 749 1052 752 1053 743 749 821 1054
+
+
+
+180 416
+325 902 787 749 937 799 55 1055
+345 942 898 779 800 1056 1057 743 980 1058 1020 1059 749 937 799 1060 980 1055
+
+
+
+180 421
+325 1061 752 831 743 854 1062 907 908 245 1063 799 205 1058 915 209 769 749 937 799 1064 752 799 1065 55 1066 893 889 903 799 753 755 790 799 1067 1068 1069 752 995 1070 438
+345 1071 779 800 1072 1073 1074 844 749 891 752 854 1075 743 749 1076 1077
+447 860 759 760 749 1078 752 826 1079 1080 743 1081 752 760 903 799 281 812 1081 752 749 1031
+
+
+
+180 454
+325 902 787 749 937 799 1082 1083 1084 790 1085 790 764 1086 844 1087
+345 942 898 779 800 1056 1057 743 980 1088
+
+
+
+180 463
+902 787 749 937 799 781 743 1089 40 752 465 856 937 1090 781 799 1060 980 467 915 1091 752 762 1092 1084 915 764 1093 844 1094 752 764 339 915 1095 799 1096 980 467 915 783 764 1097 1098 1099 752 1100
+
+
+
+180 479
+902 787 749 937 799 781 743 1101 752 1102 856 937 1090 781 799 1103 482 907 1015 752 799 1104 1105 752 1106 1107 752 1108 1109 908 1110 752 1111 743 1112
+
+
+
+180 495
+325 902 787 749 937 799 781 743 1113 1114 752 503
+345 942 898 1043 800 801 799 1115 799 962 503
+
+
+
+180 504
+325 902 787 749 937 799 1116 506 764 749 1117 743 980 1033 1118 915 1109 1119 1120 1121
+345 902 787 749 937 799 753 1122 799 339 1123 764 980 1037
+447 860 1124 743 749 1125 779 800 749 925 743 749 1126 743 1127 856 1124 779 800 1128 764 1129 752 1130 1131 773 779 800 812 847 752 753 529 752 779 800 943 812 532 531 915 812 1132 891 1133 1134
+
+
+
+180 538
+1135 790 55 1136 743 870 787 749 937 799 111 940 752 760 903 799 1137 1109 166 1138 752 233 1139 752 764 1140 844 749 1141 752 1142 743 1030 1143 743 749 1144 111 752 1145 755 1146 768 980 751 752 749 891 817 743 980 1147
+
+
+
+180 557
+325 902 787 749 937 799 1148 799 891 1149 743 1150 799 1151 752 1152 114 743 1153 752 799 281 806 1154
+345 1135 907 908 564 787 749 937 799 753 1155 768 753 1156
+447 902 1157 1158 787 749 937 799 1151 752 1152 1159 1160 768 1161 752 980 759 962 572 1162 743 758 1163 752 1164 796 1165 812 916 1166 743 111 1167
+579 902 787 749 937 799 1168 752 799 1169 946 1170 768 749 281 743 980 1171
+
+
+
+180 583
+902 787 749 937 799 1172 752 1173 1034 1174 245 743 1175 1176 752 1129 1177 844 1178
+
+
+
+180 591
+325 902 787 749 937 799 55 864 743 1179 1180 768 749 1181 752 1182 743 1161 752 743 980 1017 1034 1183 1184 1185 752 1186 1187 752 999 111 1188 752 749 937 799 940 764 749 1189 743 1190 1191 1192 1193 1194 1195 915 916 1196 743 1197 764 1198 1199 980 1200
+345 1201 752 1202 889 903 799 1203 1187 752 1204 888 1205 932 890 764 915 1206 743 1207 779 780 749 1208 111 1167
+
+
+
+180 626
+325 902 787 749 937 799 1209 1210 779 800 1211 995 1212 764 749 1213 752 826 1214 1215 876 779 800 1216 1217 752 1218 876 779 800 923 1219 1220 752 1221 876 779 800 1222 1223 799 756 924 749 925 743 1224
+345 1210 779 800 1225 799 749 854 817 743 749 758 1226 752 799 749 1227 743 127 768 758 755 752 826 1228 1229 779 816 1230 1231 752 1232 883 756 89 1233 915 1234 1235 752 779 1236 749 1237 743 749 821 92 768 749 1238 743 1239
+447 1240 769 55 1241 937 799 1242 749 1243 743 876 809 779 800 1244 799 824 1245
+
+
+
+180 668
+325 902 787 749 937 1119 799 1246 764 749 1145 836 743 749 1247 799 780 749 672 752 799 1248 764 1249 1250 752 1070 1251
+345 902 787 749 937 799 749 281 743 749 1252 752 1253 1254 1255 784 908 1256 1257 915 1258 681 743 773 996 760 749 1259
+
+
+
+180 686
+902 760 903 799 55 111 752 233 1260 764 773 749 755 752 852 904 905 764 856 742 1261 800 1262 1263
+
+
+
+180 695
+325 902 787 1264 799 749 1093 764 773 1084 749 891 752 854 817 743 980 1226 760 700
+345 1265 749 1266 743 980 755 752 849 1267 779 800 1268 1074 799 910 708 790 889 832 812 959 1269 768 749 1270 743 1271 1063 748 752 127 768 749 755 752 852 743 1094 752 743 1272 749 1151 1273 743 1274 339 1260 752 749 1275 1276 764 55 1277 1278
+447 1279 755 752 852 1043 764 922 1045 800 1280 1051 799 749 1052 752 1053 743 749 821 1054
+
+
+
+180 727
+1281 764 856 742 1043 800 1282 790 1283 768 908 1143 1079 915 829 908 937 799 1284 764 908 1285 915 799 1286 908 896 1287 995 749 739 743 908 743 749 755 752 852 904 905 1288
+
+
+
+
+1289 1290 1291 1292 1293
+
+1294
+
+1295 1296 224 1297 1298 1299 1300 55 1301 1302 1303 1298 1304 1305 1306 1291 1307 1308 1309 1310 1311 1312 224 1313 1298 1314 1298 1315 1306 1298 1316 1317 1318
+1295 1296 224 1319 1306 224 1320 1291 1292 1293 1321 1322 1323 1324 1325 37 1296 1326 10 1327 1328 1306 1296 1329 1325 69 1330 764 1331 1332 1333 1293 1334 1298 1335 1325 1336 1306 1325 1337 1306 1298 1335 1338 1339 1306 1338 1340 1341 1342 1343 1344 10 1345 1346 1347 1348
+1295 1296 1341 1349 1296 1302 1292 1293 1350 1351 1352 1353 1354 105 1355 1356 1357 1296 1358 1359 1360 55 1361 1344 1362 1363 1364 1365 1366 10 1367 1306 1368
+1295 1296 1341 1349 1369 1370 1371 1325 1372 1373 1374 25 1375
+1295 1296 1302 1376 1377 1378 1379 1321 1380 1381 1382 10 1307 1383 1384 1292 1293 1385 1386 1299 1306 1317 1387 1298 1388 1389 1390 1291 1292 1391 1306 1298 1392 1310 1321 1393 1325 1369 224 1394 1395 1306 69 1396 1397 1325 1398 764 1399 1400 1401
+1295 1296 1332 1402 1303 1355 1403 1404 55 1405 764 1406 1407 25 1378 1408 224 1409 1306 1410 1290 1291 1292 1293 1306 1377 1335 1411
+1295 1296 1399 1412 1413 1325 1414 1292 1306 1325 1415 1335 1341 1298 1416 1417 1418 10 1419 1420 1325 1414 1421
+1422 1423
+1424
+10 1425 1426 1290 1291 1292 1293 1344 1427 1413 1352 1428 1352 1301 1302 1376 1306 1352 1429 25 1430 1431 1432 1296 1433 1434 1310 1433 1435 1298 1436 1437 1438 1425 1415 1439 1355 1440 1325 1441 1407 1442 1306 1443 224 1409 1325 1414 1292 1306 1325 1444 1335 1306 1325 1445 1446 1447 877 1325 1448 1449 1306 1450 1451 1310 1452 1297 1306 1409 1453 1454 1302 1376 1455 1456 1402 1457 1458 1454 1459 1291 1460 1461 1364 1307 1462
+
+
+1463 887
+1464 1332 1333 1293 1465 1466 1310 1467 764 1299 1306 1468 1469 1403 1470 1325 1471 1306 1325 1327 1306 1472 1473 1332 1474 1475 1332 1476 764 1477 1325 1478
+
+
+1463 195
+1479 1433 1434 1480 1301 1302 1292 1306 1429 25 1335 1481 1386 1425 1439 1482 1483 1484 1418 1485 1325 1486 1325 1487 1325 1488 1325 1489 1325 1490 1325 1491 1492 1493 1325 1494 1495 1325 1496 1449 1493 218 1325 1497 1325 1498 1493 1325 1499 1500
+1501 1483 1502 1503 1504 1505 1506 1507 1508 1509 1510 1493 1511 1512 1513 1493 1512 1514 1331 1399 1388 1515 1359 1516 1493 1517 1323 1518 1519 1493 242 1520 1493 1521 55 1522 1523 1325 1524
+
+
+1463 248
+1525 1434 1526 1527 1364 1528 1364 1335 1310 1364 1529 1298 1530 1531
+
+
+1463 255
+1532 1434 1533 1534 1535 764 1342 1325 1536 1493 1325 1537 10 1536 1306 10 1538 1455 1539 1540 1541 1542 1522 1543
+
+
+1463 266
+1532 1434 1533 1534 1517 55 1544 1493 55 1545 1493 55 1546 1547 1548 1493 1549
+
+
+1463 273
+1525 1434 1526 1550 764 1433 1551 1431 1297 1298 1552 1553 1554
+
+
+1463 277
+1464 1403 1467 1555 1364 1556 1306 1321 1550 1482 1557 1558 1323 1399 1559 1560 1352 1561 1298 1562 1464 1321 1527 1323 1399 1559 1560 1366 1433 1563 1296 1564 10 1425 1289 1344 1366 1522 1565 55 1566 1567
+
+
+1463 288
+1525 1434 1526 1527 1323 1568 1569 1325 1570 55 1571 1572 1366 1324 1296 1573 1302 1292 1574 55 295 1575 1576 1577 1493 1576 1562
+
+
+1463 298
+1532 1434 1533 1534 1578 1579 1580 1493 1581
+
+
+1463 304
+1525 1434 1526 1550 764 1582 1325 1419 1583 1323 1399 1584 1306 1585 1586 1587 1323 69 1588 1589 1306 1590 1431 1432 1298 1591 1291 1592 1292 1306 1291 1592 1593 1594 1298 1595 1325 1433 1596 1597 1296 1332 1598 1599
+
+
+1463 324
+325 1525 1434 1600 1325 69 1601 1341 1602 330 1603 55 1296 10 1552 1604 242 1359 1605 1606 1607 764 69 1608 1609 1317 1610 1611 1612 1613 1429 25 1614 1615 1418 10 1552 1616
+345 1532 1434 1502 1617 1418 69 1618 1619 1620 1621 1622 1431 1623 764 1331 1359 1342 1624 242 1625 1601 1626 224 1527 1627 1493 1626 224 1527 1628 1629 1533 1512 1630 1534 1631 1557 1632 1633 55 1634 1635 1431 1623 764 1331 224 1601 1359 1342 1636
+
+
+1463 365
+1532 1434 1533 1534 1517 1323 1637 1638 1386 1552 1398 1639 1386 1552 1640 1386 1552 1641 1386 1552 1642 1643 55 1644 1512 1645 1646 1306 1298 1552 1647 1525 1434 1526 1527 1323 1534 1648 1576 1556 1366 1649 1637 1493 1650
+
+
+1463 380
+325 1525 1434 1526 1527 1364 1335 1325 1651 1306 1325 1652 1653 1302 1654 1325 1433 1655
+345 1525 1434 1526 1527 1325 1656 1522 1657 1658 224 1659 1306 1325 1660 1317 1661 1662
+
+
+1463 395
+325 1525 1434 1526 224 1527 1325 1663 1306 1325 1664 764 1476 1665 1666 1667 1668
+345 1669 1527 242 1533 1534 1670 1671 1672 1359 1673 1674 1418 1675 242 1676 1493 1418 1677 1678 1679 1680 1306 1679 1681 1377 1378 1682
+
+
+1463 416
+325 1525 1434 1526 1527 1323 1399 1683
+345 1532 1434 1533 1534 1578 1684 1298 1552 1685 1643 1512 1527 1325 1686 1683
+
+
+1463 421
+325 1687 1306 1688 764 1689 1690 1321 224 1527 1325 1691 1306 1325 1692 1399 1640 1482 1557 1523 1325 1486 1693 1493 1694 1469 1321 1467 1292 1695 1431 1696 1697 224 1698 1306 1699 1512 1645 1700
+345 1701 1698 1533 1534 1702 1703 1407 224 1704 1306 1705 1706 1291 1707 1708
+447 448 1304 1341 224 1709 1710 1306 1711 1298 1712 1306 1526 1527 1323 1534 1713 1576 1712 1306 1714 1655
+
+
+1463 454
+325 1525 1434 1526 224 1527 1323 1715 1399 1716 1552 1717 1493 764 1413 1407 1718
+345 1532 1434 1533 1534 1578 1684 1298 1552 1719
+
+
+1463 463
+1525 1434 1526 1527 1364 1335 1325 1720 1325 1327 1306 1325 1721 1566 1527 1722 10 1335 1325 1723 1325 1724 1493 1325 1725 1306 10 1335 1325 1726 1727 1493 764 1728 1306 1359 764 1608 1296 764 1729 10 1530 1724 1493 224 1661 1337 1730 1731 1732 1317 1733 1306 1734 1291 1735
+
+
+1463 479
+1525 1434 1526 1527 1364 1335 1325 1491 1306 1325 1736 1658 224 1527 1325 242 1534 1737 1418 10 1530 1491 1306 1738 1325 1739 1740 1306 1741 1742 1306 1743 1744 1433 1745 1306 1482 1695 55 1746
+
+
+1463 495
+325 1525 1434 1526 1527 1364 1335 1325 1747 1306 1325 1748 1749
+345 1750 1751 1534 1360 55 1752 1561 1325 1753
+
+
+1463 504
+325 1525 1434 1526 1527 1325 1754 1431 1755 1512 1661 1657 1359 1756 1359 1744 1757 1758 1759
+345 1525 1434 1526 1527 1325 1760 764 1761 1325 1762 1679 1763 1764 1512 1661 1662
+447 448 1765 1766 1341 224 1313 1767 1512 1768 1566 1765 1769 1534 1770 1744 1771 1306 1772 1773 1774 55 1775 1290 1310 1776 1310 55 1777 1778 1493 1626 1399 1779 1780 1325 1781 1782
+
+
+1463 538
+1525 1783 764 1458 1784 1298 1436 1526 1527 1364 1529 218 1594 1364 1420 1744 1370 1785 1449 1306 10 1406 1511 1310 764 1786 1407 1787 1306 25 1788 1325 1433 1789 1291 1292 1790 1791 1306 1792 1793 1364 1552 1299 1310 1431 1704 1371 1298 1552 1794
+
+
+1463 557
+325 1525 1434 1526 1527 1431 1795 1364 1781 1796 1797 55 1798 1306 1799 1761 1325 1800 1310 1364 1801 1366 10 1802
+345 1525 1783 1482 1558 1526 1527 1323 1559 1803 1418 1559 1804
+447 1525 1434 1296 1805 1526 1527 1323 1399 1806 1584 1306 1807 1296 1808 55 295 1809 1306 1364 1552 1304 1399 1810 573 1364 1299 1305 1310 1811 105 1812 1352 1476 1813 1325 1801 578
+579 1525 1434 1526 1527 1325 1692 1291 1814 1306 1325 1815 1418 10 1816 1291 1817 1818
+
+
+1463 583
+1525 1434 1526 1527 1431 1819 1310 1820 1821 1822 764 1823 1399 1824 1523 1377 1825 1325 1800 1306 1826 1771 1827
+
+
+1463 591
+325 1525 1434 1526 1527 1323 69 1397 1325 1398 1828 55 1829 10 1830 1306 224 1831 1661 1306 1298 1552 1640 1407 1832 1695 1833 1431 1834 1835 1306 1836 1837 1838 1306 1679 1839 1791 1840 1310 1526 1527 1364 1529 764 1841 1325 1842 1843 1844 1845 1846 1493 764 1494 1841 1325 1847 1325 1813 1325 1848 1418 1849 1850 1576 1552 1851
+345 448 1852 1306 1853 1321 1527 55 1854 1837 1310 1855 1464 1302 1856 1857 1317 1698 1493 1858 1325 1859 1472 1664 1298 1860 1801 578
+
+
+1463 626
+325 1525 1434 1526 1527 1861 1862 1769 1534 1863 1864 1418 1458 1865 25 1866 1867 1306 1868 1862 1869 1769 1534 1870 1862 1871 1306 1872 1769 1534 1873 1364 1874 1325 1301 1306 1875 1633 1769 1534 1876 1877 55 1301 1505 1506 1512 1878
+345 1862 1769 1534 1879 1431 1705 1371 1298 1553 1305 1310 1431 1880 1512 1409 1291 1292 1293 1306 1377 1335 1868 1881 1769 1369 10 1882 10 1883 1884 1454 1429 25 1430 1302 1885 1886 1306 1887 1306 1769 1888 1889 1377 1378 1379 1418 224 1890 1298 1891
+447 1892 1893 1321 1527 1325 1894 1386 1796 1512 1895 1325 1896 1352 1897 1679 1307 1898
+
+
+1463 668
+325 1525 1434 1526 1527 1325 1899 1561 1758 1364 1398 1900 1298 1901 1325 1664 1377 1902 1306 1325 1754 1431 1394 1903 1310 1679 1592 1904
+345 1525 1434 1526 1527 1364 1801 1455 1905 1906 1306 1907 1908 1352 1433 1909 1910 1911 1306 1912 1325 1331 1611 1359 1913
+
+
+1463 686
+1525 1434 1526 1527 1323 69 1914 1395 1306 1511 1317 1610 1302 1292 1306 25 1335 1915 764 1415 1289 1916 1534 1917 1918
+
+
+1463 695
+325 1525 1434 1526 1291 1919 1475 10 1901 1386 1610 1703 1341 1920 224 1704 1306 1705 1371 1298 1552 1794
+345 1921 1291 1592 1292 1306 1377 1922 1314 1923 1769 1534 1517 1703 55 1924 1925 1296 1403 1926 1576 1556 1418 1927 224 1297 1306 224 1409 1291 1292 1306 1377 1335 1455 1476 1306 1418 1928 25 1798 1929 1298 717 1930 1608 1306 1512 1831 1931 764 1399 1712 1932
+447 1933 1292 1306 1444 1335 242 1934 764 1935 1841 1534 1936 764 1937 1407 1302 1680 1306 1681 1377 1378 1682
+
+
+1463 727
+1938 1386 1425 1289 1751 1534 1939 1317 1940 1325 1941 69 1527 1325 69 1522 1789 1942 1493 1388 1325 1943 1944 1493 1325 1945 69 1946 1947 1364 1948 1325 1949 1291 1292 1306 1377 1335 764 1950 1951
+
+
+
+
+1952 741 5 1953 1954
+
+1955
+
+1956 9 10 1957 10 1958 390 10 1959 77 1960 1961 1962 1963 1506 1960 1964 5 10 1965 1966 390 5 1967 1968 1969 1306 1970 5 1971 1967 1972 5 10 1973 1974
+1956 9 1960 1975 390 1960 1976 5 1967 1968 1977 1978 1979 1980 5 37 1981 1982 10 1983 5 10 1984 390 9 105 1526 1985 1986 10 1987 1988 1989 1512 1990 1960 1991 5 69 1961 77 9 1967 1992 1993 1994 1512 1995 390 5 10 1996 1997 5 10 1998 5 1999 390 5 10 1998 5 2000
+1956 2001 9 1967 1968 1977 2002 2003 1963 69 2004 5 2005 55 2006 5 9 1960 2007 922 105 2008 2009 1431 2010 2011 5 10 2012 2013 10 2014 390 10 2015
+1956 2016 2001 2017 1960 2018 5 2019 2020 88 2021 2022
+1956 9 1967 2023 5 2021 2024 2025 1978 2026 77 10 2027 2028 2029 77 1967 1968 2030 1512 1990 77 10 1965 390 1960 2031 5 10 1388 2032 390 77 10 2033 5 1968 5 2034 390 2035 390 105 1978 2036 2037 55 2017 1960 2038 111 390 55 2039 1960 2040 5 2041 2042 5 69 2043 1988 2044 5 10 1957
+1956 9 1967 2045 2046 105 1978 2047 55 2048 77 2049 1407 10 2050 5 2021 2024 2051 1960 2052 847 390 2053 55 1967 1968 390 2054 2030 1512 1990 390
+1956 9 1399 2055 2056 5 2057 1968 390 2054 2058 5 10 2059 2060 1982 1960 2061 2062 5 2063 2064
+448 2065 861
+2066 10 1425 1952 741 5 1953 1954 1986 2067 2056 1963 1960 9 1971 1967 2023 390 2068 2069 2070 55 2006 5 9 1453 1967 2071 1986 2021 2072 2073 2074 77 2075 2076 1446 10 2077 390 10 2078 1960 2052 55 2057 1968 390 2079 390 2080 1963 2081 2082 5 2083 2084 1306 2085 2028 1964 390 2086 2087 390 2088 1453 88 1967 2023 5 1967 2045 2046 1986 88 1967 5 1967 2089 2090 2091 2028 2092
+
+
+2093 887
+2094 1967 1992 1977 2095 49 1306 1969 77 1965 390 1968 2096 2097 1986 2098 5 2099 390 2100 2069 2101 2102 1967 2103 1407 1967 2104
+
+
+2093 195
+2105 1388 2106 1967 1968 390 2054 2107 77 2108 2109 2110 2111 2112 5 2113 2114 2115 2116 2117 2118 2119 1493 5 2120 2121 2122 2123 2084 1493 2124 2125 2126 2127 1493 2120 2121 2128
+2129 922 105 2130 2111 2112 2131 77 10 2132 2133 2134 1493 2135 1512 2136 1493 1514 5 2137 2138 2139 1399 2140 1453 1355 105 2141 5 69 2136 2142 1986 5 69 1514 2091 2143 2144 922 2145 1493 2146 55 2120 2121 2147 5 2148
+
+
+2093 248
+2149 1434 2106 2150 55 10 2151 55 10 1998 390 55 10 2152 5 2028 1531
+
+
+2093 255
+2153 2154 2146 55 2155 259 55 2156 10 2155 390 10 2141 5 2157 2098 2158 77 2159 2160 2161
+
+
+2093 266
+2153 2162 2146 55 2163 259 55 2164 1493 2165 2166 2167 1493 2168
+
+
+2093 273
+2149 2169 2170 2106 2171 77 2159 2172 1431 1964 5 2028 2173 2174
+
+
+2093 277
+2094 371 1969 2175 10 2176 390 2177 2110 2178 2150 55 2179 2180 5 10 2181 2094 1962 2150 55 2179 2180 2013 2182 2183 9 2184 2108 1952 390 2013 2182 2185 55 2186 2187
+
+
+2093 288
+2105 1388 2106 2150 55 69 2011 2188 2175 1967 2189 2190 2191 9 10 2192 2013 1980 9 2193 2160 1968 2030 2194 1963 10 2195 1493 1963 10 2181
+
+
+2093 298
+2153 2196 2169 1578 2197 2198 259 2199
+
+
+2093 304
+2105 1388 2106 2171 77 2200 5 2201 2202 55 2169 2203 2204 390 1407 1958 1963 69 312 2205 1306 2206 1982 10 2207 5 2160 1968 390 2208 1493 1982 1960 2209 5 2120 2210 2013 2211 77 2212 2213
+
+
+2093 324
+325 2105 1388 2214 5 2215 2106 2150 55 9 105 2216 2028 2217 2218 922 105 2219 2028 2220 573 55 10 2176 390 77 2221 2222 77 1960 9 105 25 2223 2224 2159 2021 2225 2226 1982 2028 2227
+345 2153 2162 2228 1963 1980 2229 2230 9 77 1960 1623 5 2231 922 2232 2233 2234 1960 2235 2084 1493 2236 2237 105 2238 1632 1988 2239 9 10 2240 77 1960 1623 5 10 2241 1512 2242
+
+
+2093 365
+2153 2162 2243 5 2244 2245 77 2028 2041 2246 2028 2247 2028 2248 1493 2028 2249 259 5 2250 55 2028 2251 1493 55 2028 2252 2105 1388 2106 2150 55 10 2180 5 10 2176 2013 2253 2244 1493 2254
+
+
+2093 380
+325 2105 1388 2106 2150 55 2255 2256 390 55 2257 2028 2258 77 1960 1514 5 69 2259
+345 2105 1388 2106 2150 55 2260 5 2120 2261 1658 1960 2262 390 55 2263 55 2028 2264
+
+
+2093 395
+325 2265 1841 5 2266 2182 1388 2106 2150 55 2267 2268 390 55 2269 5 2270 77 2120 2264
+345 2271 2150 922 2196 2169 2272 2013 1399 2273 2274 1673 2275 1963 2276 2277 1493 1963 1980 2278 55 1967 2279 390 2280 5 2021 2024 2281
+
+
+2093 416
+325 2105 1388 2106 2150 55 1399 2282
+345 422 2283 105 2284 1578 5 2028 2285 259 1512 2150 55 2286 5 2282
+
+
+2093 421
+325 2287 2034 390 2021 2288 55 423 5 10 2289 2290 1962 2171 2110 2291 2112 1963 2292 5 2113 2285 1493 2117 55 2293 390 2294 1399 2295 390 2296 5 1969 1968 77 2297 1431 1696 1697 1960 1698 390 77 1841 5 2298 1512 2299
+345 2300 1446 442 390 2061 2301 5 1967 2302 2303 2196 2304 1960 2299
+447 448 1973 2058 1960 2305 1078 390 826 5 10 2306 390 2106 2150 55 10 2180 5 10 2306 390 1512 2259
+
+
+2093 454
+325 2105 1388 2106 2150 55 10 2307 868 390 2308
+345 2153 2162 2309 1578 5 2028 2310
+
+
+2093 463
+2105 1388 2106 2150 55 10 1998 5 2311 5 1983 390 5 2312 2313 2150 2314 10 1998 5 2286 5 2315 1493 5 2316 2317 1986 10 1998 5 2318 2028 2315 1493 2028 2316 868 390 2319 1453 77 2222 1986 77 2320 1963 10 2321 10 2322 1960 1733 390 10 2323
+
+
+2093 479
+2149 1434 2106 2150 55 10 1998 5 2118 390 5 2324 2313 2150 2314 1960 922 2169 2325 55 2326 5 2160 2327 1960 5 2328 390 2329 2330 390 2327 390 1960 5 2331 2110 2147 5 2332 1963 2120 2333 5 2334
+
+
+2093 495
+325 2105 1388 2106 2150 55 10 1998 5 2335 390 5 2336 2337
+345 2153 2196 2169 2338 55 2339 55 1399 2340
+
+
+2093 504
+325 2105 1388 2106 2150 55 2341 77 1960 2342 5 2028 2261 2343 1493 1963 2333 5 2344 2256 2345
+345 2105 1388 2106 1960 2150 5 2346 77 2200 5 2202 55 2021 2347 2348 5 2028 2264
+447 448 2349 1512 2350 2058 10 1506 5 10 2351 1512 2352 2353 2108 2349 105 2354 1446 2355 2356 9 2357 5 2358 2359 1963 2360 847 1306 2179 390 1963 1777 2361 2229 2362 2363 1780 9 2364 10 1998 1512 2365
+
+
+2093 538
+2105 2140 1986 2366 5 10 2367 2106 2150 55 10 2152 2124 390 55 2368 1446 1960 2369 2084 390 10 2049 2085 2370 2371 5 10 2372 390 1967 2373 5 2374 2375 10 2376 5 1967 1968 2377 2378 390 2379 548 55 2028 1965 390 1431 442 2018 5 2028 2380
+
+
+2093 557
+325 2105 1388 2106 2150 1431 2381 55 10 442 2382 5 2028 2381 55 2200 2383 390 2384 5 2385 390 55 10 2180 2013 1960 2386
+345 2105 1388 2106 2171 2110 2183 2387 55 2179 2388 1963 2385 2389
+447 2105 1388 9 2390 2106 2150 55 1399 2391 2392 390 2393 9 25 2394 2317 1986 55 2028 2247 1399 2395 573 55 10 1965 2032 390 9 2162 2396 77 1841 2397 1963 2398 2399 2400 5 2180 2401
+579 2105 1388 2106 2150 55 2294 2402 390 55 2403 1982 10 2404 5 2160 2405
+
+
+2093 583
+2105 1388 2106 2150 1431 2406 1431 2407 1512 2408 2409 55 1399 2147 2410 5 10 2411 1512 2385 390 55 2412 2413 2414
+
+
+2093 591
+325 2105 1388 2106 2150 55 69 2040 5 2041 2415 9 25 2394 2317 1986 55 2028 2247 10 2416 390 1960 2417 390 77 2418 10 2419 1960 2420 10 2421 10 2422 2423 390 1967 2424 2378 2425 2106 2426 2150 55 1967 2427 77 1841 5 2428 2429 2430 2431 2432 390 2399 2433 5 2434 5 2160 2400 5 2435 1963 2436 2437 5 2028 2438
+345 448 2439 390 10 2440 1962 2150 55 2441 390 2422 2442 2094 1967 2443 2444 5 1698 1493 2445 5 1696 1962 2150 55 2179 2180 2401
+
+
+2093 626
+325 2105 1388 2106 2150 55 10 2446 448 2447 2448 2169 2449 1431 2450 77 1370 2451 55 10 2452 2453 390 2454 448 2452 2453 2162 2455 448 2452 2456 390 2457 2458 5 2169 2459 1960 2460 55 1967 2461 2462 2162 2179 1982 2463 77 2464 5 1967 2465 2466
+345 448 2447 2467 1963 2243 1960 2061 2018 5 10 2173 2032 390 1960 2468 1512 2052 55 1967 1968 1977 390 55 2021 2054 2469 2470 10 2471 10 2472 390 10 2473 88 2159 2021 2068 390 1971 1967 2474 2475 1493 2476 390 2477 1960 2018 5 2021 2478 5 2021 2024 2025 1982 1960 2479 5 10 2480
+447 2287 2481 2482 2150 2483 55 2484 1960 2485 5 2447 9 2458 5 2486 55 2160 2487
+
+
+2093 668
+325 2105 1388 2106 2150 55 2488 1561 2256 77 10 2041 1145 5 10 2489 55 2490 5 2021 2491 390 55 2341 77 1960 2038 2492 390 77 1967 2493 9 5 2494 2495
+345 2105 1388 2106 2150 55 10 2180 5 1967 2496 2497 390 2498 9 25 2499 1963 2099 5 2021 2500 2501 2502 1493 2503 5 9 2504 2505
+
+
+2093 686
+2105 1388 2106 2150 55 9 105 2506 69 2507 111 1306 2135 77 1960 9 1967 1968 390 2054 2107 77 2108 1952 105 2508 2509 2510
+
+
+2093 695
+325 2105 1388 2106 2511 2512 55 10 2489 2513 9 2514 77 2211 2515 2516 442 390 2509 2028 2380
+345 2265 1960 2517 5 2160 1968 390 77 1960 2407 5 2160 2079 2182 1388 2154 2518 2519 55 2021 2520 2521 1963 10 2176 1407 1960 2522 2006 5 2523 1960 1964 390 1960 2052 5 1967 1968 390 2054 5 1967 2524 390 5 2525 2021 2526 2527 5 10 2528 1512 2507 2222 390 1512 2529 1275 77 1399 2306 2530
+447 2531 1968 390 2054 922 2532 77 2533 1841 2169 2534 77 2535 55 1967 2279 390 2280 5 2021 2024 2281
+
+
+2093 727
+2536 77 10 1425 1952 2196 2537 77 1960 2538 5 9 2539 2150 2540 1431 2375 55 69 2541 1493 55 1399 2140 1982 2542 390 2516 2478 1493 2543 1980 2544 55 10 2545 5 2546 5 1967 1968 390 2054 2107 77 2108 2547
