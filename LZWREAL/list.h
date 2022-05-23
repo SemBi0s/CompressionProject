@@ -1,6 +1,7 @@
 #ifndef element_h
 typedef struct{
     char *value;
+    int id;
 } element;
 #endif  // element_h
 
@@ -12,7 +13,7 @@ typedef struct node
 } node; 
 #endif  // node_h
 
-void Push(node**, char *);
-void PushEnd(node**, char * );
+void Push(node**, char *, int id);
+void PushEnd(node**, char * , int id);
 void PrintList(node *);
 void DeleteList(node **);

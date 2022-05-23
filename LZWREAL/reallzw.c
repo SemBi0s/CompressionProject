@@ -23,6 +23,40 @@ int isInList(char *value, node *head){
 	return 0;
 }
 
+int returnCode(char *value, node *head){
+	while(head != NULL){
+		if (!strcmp(value, head->data.value))
+			// If the element is in, we return 1
+			return head->data.id;
+		head = head->next;
+	}
+}
+
+int calcul_ratio(const char input[], const char compressed[]){
+	FILE *base = fopen(input,"r");
+	FILE *compress = fopen(compressed,"r");
+	
+	if (base == NULL || compress == NULL){
+		return 0; 	
+	} 
+	char c;
+	float c1 = 0;
+	float c2 = 0;
+
+	while( (c = fgetc(base)) != EOF){
+			c1++;
+		}
+
+	while( (c = fgetc(compress)) != EOF){
+			c2++;
+		}
+
+	printf("compression ratio = %.2f \n", (100 - ((c2/c1))*100));
+
+	fclose(base);
+	fclose(compress);
+	return 1;
+}
 
 // This is our encoding function
 int compress(const char input[]){
@@ -32,51 +66,55 @@ int compress(const char input[]){
 	FILE *new = fopen("compress.txt", "w");
 
 
+	int id = 256;
 	// We initialize our buffer and our result which is buffer+readByte to 256 bits
-	char *buffer =(char *) malloc(sizeof(char) * 256);
-	char *result = (char *) malloc(sizeof(char) * 256);
+	char buffer[256] = "\0";
+	char result[256] = "\0";
 	//We initialize our char c as a string of to element, the character and the EOF char
-	char c[2];
+	char c[2] = "\0";
 
-	//We initialize our dictionnary 
-	node **head = (node**) malloc(sizeof(node*)); 
+
+	node *head = (node*) malloc(sizeof(node)); 
 	
 	element d;
   	d.value = " ";
-	
+	d.id = id;
+
 	node *newNode = (node*) malloc(sizeof(node));
 	(newNode->data) = d;
 	newNode->next = NULL;
-	*head = newNode;
-	
+	head = newNode;
 	
 	if(lzw!=NULL){
+		
 		c[0] = fgetc(lzw);
-		strcpy(buffer, "")
+		strcpy(buffer, "");
 		strcpy(result,"");
 		
 		strcpy(buffer, c);
-		PushEnd(head, buffer);
 		
 
 		while(c[0] != EOF){
-
 			c[0] = fgetc(lzw);
 			//printf("%s",c);		
-			strcpy(result, "\0");
-
+			
+			strcpy(result, "");
 			strcpy(result,buffer);
 			strcat(result,c);
+			//printf("%s\n",result);
 
+			printf("%d %s\n", isInList(result,head), result);
 			//PrintList(*head);
 
-			if (isInList(result, *head)){
+			if (isInList(result, head)){
 				strcpy(buffer, result);
 			}else{
-
-				fprintf(new,"%s", buffer);
-				PushEnd(head, result);
+				id++;
+				fprintf(new,"%d", id);
+				strcpy(buffer, "");
+				PushEnd(&head, result, id);
 				strcpy(buffer, c);
+				//printf("%s \n", buffer);
 			}
 			
 		}
@@ -87,12 +125,68 @@ int compress(const char input[]){
 		return 0;
 	
 	fclose(new);
-	//calcul_ratio( input, "compress.txt");
+	calcul_ratio( input, "compress.txt");
 	return 1;
 }
 
 int decompress(const char input[]){
 	
+	FILE *comp = fopen(input, "r");
+	// We open the file that will be our output
+	FILE *new = fopen("decompress.txt", "w");
+
+
+	int id = 256;
+	// We initialize our buffer and our result which is buffer+readByte to 256 bits
+	char buffer[256] = "\0";
+	char result[256] = "\0";
+	char tempString[256] = "\0";
+	//We initialize our char c as a string of to element, the character and the EOF char
+	char c[2] = "\0";
+
+
+	node *head = (node*) malloc(sizeof(node)); 
+	
+	element d;
+  	d.value = " ";
+	d.id = id;
+
+	node *newNode = (node*) malloc(sizeof(node));
+	(newNode->data) = d;
+	newNode->next = NULL;
+	head = newNode;
+
+	if(comp!=NULL){
+			
+		c[0] = fgetc(comp);
+		fprintf(new,"%c",id);	
+
+		while((c[0] = fgetc(comp))!= EOF){
+			strcpy(buffer, c);
+			if (!isInList(c, head)){
+				strcat(buffer, c);
+				PushEnd(&head, buffer, id++);
+			}
+
+			*tempString = (char ) returnCode(buffer, head);
+			strcat(buffer, &tempString[0]);
+
+			if (!isInList(buffer, head))			{
+				PushEnd(&head, result, id);
+			}
+			strcat(result, tempString);
+			fprintf(new, "%s", result);
+			id++;
+			
+		}
+		fprintf(new,"%s",buffer);
+		fclose(comp);
+	}
+	else
+		return 0;
+	
+	fclose(new);
+
 	return 1;
 }
 

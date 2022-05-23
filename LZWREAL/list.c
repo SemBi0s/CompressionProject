@@ -3,9 +3,11 @@
 #include<string.h>
 #include "list.h"
 
-void Push(node** headRef, char *value){
+void Push(node** headRef, char *value, int id){
   element d;
+  d.value = malloc(sizeof(value));
   d.value = value;
+  d.id = id + 1;
   node* newNode=(node*) malloc(sizeof(node));
   newNode->data=d;
   newNode->next=*headRef;
@@ -13,12 +15,12 @@ void Push(node** headRef, char *value){
 }
 
 
-void PushEnd(node** headRef, char *value){
+void PushEnd(node** headRef, char *value, int id){
     if((*headRef)==NULL){
-        Push(headRef,value);
+        Push(headRef,value, id);
         return;
     }
-    PushEnd(&(((*headRef)->next)),value);
+    PushEnd(&(((*headRef)->next)),value, (*headRef)->data.id );
 }
 
 void PrintList(node *head){
